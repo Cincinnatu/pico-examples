@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cin/pico-sdk/pico-examples/gpio/hello_gpio_irq/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S
+
